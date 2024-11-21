@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Computer Vision algorithms
 - 📫 How to reach me - yashsant9919@gmail.com
-- ⚡ Fun fact: I love particularly Netflix Anime and biased fan of Call of Duty. Also, I edit videos in my passtime. ;)
+- ⚡ Fun fact: I love particularly Netflix Anime and a biased fan of Call of Duty. Also, I edit videos in my passtime. ;)
