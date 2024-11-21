@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in applications of Machine Learning and Backend Development
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on Computer Vision algorithms
+- 📫 How to reach me - yashsant9919@gmail.com
+- ⚡ Fun fact: I love particularly Netflix Anime and biased fan of Call of Duty. Also, I edit videos in my passtime. ;)
